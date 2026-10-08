@@ -1,0 +1,7 @@
+[package]
+name = "mini-sql-engine"
+version = "0.1.0"
+edition = "2021"
+description = "A small SQL query engine in Rust: parser, logical planner, rule-based optimizer, and Volcano-style executor over CSV files"
+
+[dependencies]
